@@ -1,1 +1,11 @@
-
+{
+    "@metadata": {
+        "authors": [
+            "Matthew Trescott, TEAM A72"
+        ]
+    },
+    "iewarn-name": "警告IE用户",
+    "iewarn-desc": "当用户使用Edge或者IE访问本站时显示一个警告",
+    "iewarn-ie-title": "不支持的网页浏览器",
+    "iewarn-ie-message": "很抱歉，可是 $1 没有办法正确显示YzACG百科站的很多精彩内容。请，尝试换一个更加主流的浏览器，如Google Chrome或Mozilla 火狐浏览器。"
+}
